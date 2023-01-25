@@ -1,7 +1,7 @@
 ## CHANGE LOG
 
 ### Version 1.5.5 (January 23, 2023)
-* Adds fix for closing App Inbox controller when deeplink is present in iOS.
+* Adds a fix for closing App Inbox controller when deeplink is present in iOS.
 * Supports [add-to-app](https://docs.flutter.dev/development/add-to-app) feature for Android platform to embed the CleverTap plugin in a flutter module.
 
 ### Version 1.5.4 (November 4, 2022)
