@@ -58,7 +58,7 @@
 
 ### Version 1.1.3 (July 17, 2020)
 * Use v1.1.4
-* Adds a callback to provide Push Notifications custom key-value pairs
+* Adds a callback to provide Push Notification's custom key-value pairs
 * Supports CleverTap [Android](https://github.com/CleverTap/clevertap-android-sdk/releases/tag/3.8.1) and [iOS](https://github.com/CleverTap/clevertap-ios-sdk/releases/tag/3.8.1) SDK v3.8.1
 * Sample App Updated
 
